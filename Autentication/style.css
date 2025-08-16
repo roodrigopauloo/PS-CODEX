@@ -105,4 +105,5 @@ body{
     border-radius: 30px;
     background-color: white;
     border: none;
+    cursor: pointer;
 }
