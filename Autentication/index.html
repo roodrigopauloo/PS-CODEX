@@ -1,24 +1,26 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
-    <title>Tela Login</title>
+    <title>Pagina de Login</title>
 </head>
 <body>
-    <div>
+    <main class="container">
         <form>
-            <h1>Login</h1>
-            <div>
-                <input placeholder="Nome" required>
-                <img width="24" height="24" src="https://img.icons8.com/material-two-tone/24/user.png" alt="user"/>
-            </div>
-            <button type="submit">Entrar</button>
+             <h1>Login</h1>
+             <div class="input-box">
+                <input placeholder="Usuário" type="email" required>
+                <i class="bx bxs-user"></i>
+             </div>
+
+
+             <button onclick="window.location.href='boasVindas.html'" class="login">Login</button>
+
+             
         </form>
-
-
-    </div>
-    
+    </main>
 </body>
 </html>
