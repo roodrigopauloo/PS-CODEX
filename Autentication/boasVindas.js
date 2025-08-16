@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   // Mostra o nome armazenado
-  saudacao.textContent = `Olá, ${nome}!`;
+  saudacao.textContent = `Bem vindo (a), ${nome}!`;
 
   // Funcionalidade de saída
   botaoSair.addEventListener("click", () => {
