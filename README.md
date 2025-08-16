@@ -11,12 +11,6 @@ A aplicação cumpre todos os requisitos funcionais mínimos solicitados no desa
 * [cite_start]**RF-03: Edição do Nome:** Na tela de saudação, um botão "Editar" permite que o usuário retorne à tela de login, com o campo de nome já preenchido, para alteração[cite: 28, 40].
 * [cite_start]**RF-04: Logout (Sair):** Um botão "Sair" na tela de saudação limpa os dados do usuário (nome) e retorna à tela de login inicial[cite: 29, 40].
 
-## Funcionalidades Extras
-
-*(PREENCHER CASO IMPLEMENTEMOS ALGUMA FUNCIONALIDADE EXTRA)*
-
-* [cite_start]**Nome da funcionalidade:** TEXTOTEXTOTEXTO.[cite: 44].
-
 ## Tecnologias Utilizadas
 
 Para a construção deste projeto, foram utilizadas as seguintes tecnologias:
@@ -47,4 +41,4 @@ Para testar as funcionalidades:
 
 * **Davi Vasconcelos:** [Descrição das tarefas realizadas]
 * **Júlia Leal:** Minha contribuição para o projeto, como responsável pela lógica da aplicação (o 'backend'), incluiu a implementação da funcionalidade de login e salvamento de nome, redirecionamentos (entre as telas de saída, edição e principal), além disso implementei a lógica de edição.
-* **Rodrigo Paulo:** [Descrição das tarefas realizadas]
+* **Rodrigo Paulo:** Minha contribução para o desenvolvimento do projeto, como um dos membros do front-end, foi a implementação e organização da tela de login. Minha principal contribuição foi a refatoração do código em HTML e CSS, adequando-o aos padrões e moldes exigidos pelo processo seletivo.
