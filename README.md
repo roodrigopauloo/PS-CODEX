@@ -40,6 +40,6 @@ Para testar as funcionalidades:
 
 A organização do grupo e a distribuição das responsabilidades foram feitas da seguinte forma:
 
-* **Davi Vasconcelos:** 
+* **Davi Vasconcelos:** Atuei na construção da interface visual da aplicação, colaborando diretamente com a estruturação do HTML e com a estilização em CSS. Ajudei a desenvolver o layout da página de login com foco em uma aparência limpa, responsiva e coerente com os objetivos do projeto.
 * **Júlia Leal:** Minha contribuição para o projeto, como responsável pela lógica da aplicação (o 'backend'), incluiu a implementação da funcionalidade de login e salvamento de nome, redirecionamentos (entre as telas de saída, edição e principal), além disso implementei a lógica de edição.
 * **Rodrigo Paulo:** Minha contribução para o desenvolvimento do projeto, como um dos membros do front-end, foi a implementação e organização da tela de login. Minha principal contribuição foi a refatoração do código em HTML e CSS, adequando-o aos padrões e moldes exigidos pelo processo seletivo.
